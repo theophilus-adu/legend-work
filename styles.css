@@ -1,0 +1,26 @@
+body {
+    background-color: #435e55ff;
+  }
+  img {
+    width: 25%;
+    height: 30%;
+    margin: 20px 20px 20px 0;
+    display: block;
+  }
+  
+  p {
+    display: inline-block;
+  }
+  
+  .story {
+    margin: 0 15% 15% 1%;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    color: #d62161ff;
+    text-align: center;
+  }
